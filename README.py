@@ -1,5 +1,5 @@
 # Clustering-Comparison-Tool
-pip install streamlit scikit-learn matplotlib numpy
+pip install matplotlib
 
 import streamlit as st
 import numpy as np
